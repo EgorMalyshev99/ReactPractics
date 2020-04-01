@@ -1,0 +1,14 @@
+.tab-content img {
+  width: 700px;
+}
+
+.tab-content {
+  display: flex;
+  justify-content: center;
+}
+
+.tab-content p {
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
