@@ -1,10 +1,18 @@
 import React, { Component } from "react";
 import "./Header.css";
 import logo from "../../media/logo.png";
-import { Nav, Navbar, Container, NavbarBrand, NavLink, Form, FormControl, Button } from "react-bootstrap";
+import {
+  Nav,
+  Navbar,
+  Container,
+  NavbarBrand,
+  Form,
+  FormControl,
+  Button
+} from "react-bootstrap";
 import NavbarToggle from "react-bootstrap/NavbarToggle";
 import NavbarCollapse from "react-bootstrap/NavbarCollapse";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Route, NavLink, Switch } from "react-router-dom";
 import Home from "../../pages/home/Home";
 import About from "../../pages/about/About";
 import Contacts from "../../pages/contacts/Contacts";
@@ -16,7 +24,7 @@ class Header extends Component {
       <div className="header">
         <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
           <Container>
-            <NavbarBrand href="/">
+            <NavbarBrand href="/ReactPractics/#/">
               <img
                 src={logo}
                 height="30"
@@ -28,11 +36,11 @@ class Header extends Component {
             </NavbarBrand>
             <NavbarToggle aria-controls="responsive-navbar-nav" />
             <NavbarCollapse id="responsive-navbar-nav">
-              <Nav className="mr-auto">
-                <NavLink href="/"> Home </NavLink>
-                <NavLink href="/about"> About us </NavLink>
-                <NavLink href="/contacts"> Contacts </NavLink>
-                <NavLink href="/blog"> Blog </NavLink>
+              <Nav defaultActiveKey="/" className="navigation mr-auto">
+                <NavLink to="/"> Home </NavLink>
+                <NavLink to="/about"> About us </NavLink>
+                <NavLink to="/contacts"> Contacts </NavLink>
+                <NavLink to="/blog"> Blog </NavLink>
               </Nav>
               <Form inline>
                 <FormControl
@@ -45,14 +53,12 @@ class Header extends Component {
             </NavbarCollapse>
           </Container>
         </Navbar>
-        <Router>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/contacts" component={Contacts} />
-            <Route exact path="/blog" component={Blog} />
-          </Switch>
-        </Router>
+        <Switch>
+          <Route exact path="/" render={() => <Home />} />
+          <Route path="/about" render={() => <About />} />
+          <Route path="/contacts" component={Contacts} />
+          <Route path="/blog" component={Blog} />
+        </Switch>
       </div>
     );
   }
