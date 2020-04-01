@@ -1,16 +1,16 @@
-.tab-content img {
-  width: 700px;
-}
-
 .tab-content {
   display: flex;
   justify-content: center;
 }
 
 .tab-content p {
+  margin: 0 auto;
   width: 500px;
   text-align: center;
-  margin: 0 auto;
+}
+
+.tab-pane img {
+  max-width: 700px;
 }
 
 #left-tabs-example-tabpane-fourth img {

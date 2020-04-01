@@ -48,7 +48,7 @@ class About extends Component {
               <Col sm={9}>
                 <TabContent className="mt-3">
                   <TabPane eventKey="first">
-                    <img src={tab1_img} alt="office" />
+                    <img src={tab1_img} className="tab1_img" alt="office" />
                     <p>
                       Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                       Est impedit sit dignissimos! Porro, officia! Nemo
