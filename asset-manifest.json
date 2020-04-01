@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/ReactPractics/static/css/main.5facb584.chunk.css",
-    "main.js": "/ReactPractics/static/js/main.db2cd9d4.chunk.js",
-    "main.js.map": "/ReactPractics/static/js/main.db2cd9d4.chunk.js.map",
+    "main.css": "/ReactPractics/static/css/main.c71f1305.chunk.css",
+    "main.js": "/ReactPractics/static/js/main.677babfc.chunk.js",
+    "main.js.map": "/ReactPractics/static/js/main.677babfc.chunk.js.map",
     "runtime-main.js": "/ReactPractics/static/js/runtime-main.65306b50.js",
     "runtime-main.js.map": "/ReactPractics/static/js/runtime-main.65306b50.js.map",
-    "static/js/2.7d748ce5.chunk.js": "/ReactPractics/static/js/2.7d748ce5.chunk.js",
-    "static/js/2.7d748ce5.chunk.js.map": "/ReactPractics/static/js/2.7d748ce5.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/ReactPractics/static/css/2.de424728.chunk.css",
+    "static/js/2.1ed1d990.chunk.js": "/ReactPractics/static/js/2.1ed1d990.chunk.js",
+    "static/js/2.1ed1d990.chunk.js.map": "/ReactPractics/static/js/2.1ed1d990.chunk.js.map",
     "index.html": "/ReactPractics/index.html",
-    "precache-manifest.3dec80a973840d4b1d8c1d0e20e72f2b.js": "/ReactPractics/precache-manifest.3dec80a973840d4b1d8c1d0e20e72f2b.js",
+    "precache-manifest.f0a0b2f006be2a38fb60f10e8789aa2d.js": "/ReactPractics/precache-manifest.f0a0b2f006be2a38fb60f10e8789aa2d.js",
     "service-worker.js": "/ReactPractics/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/ReactPractics/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.7d748ce5.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.7d748ce5.chunk.js.LICENSE.txt"
+    "static/css/2.de424728.chunk.css.map": "/ReactPractics/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c71f1305.chunk.css.map": "/ReactPractics/static/css/main.c71f1305.chunk.css.map",
+    "static/js/2.1ed1d990.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.1ed1d990.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/ReactPractics/static/media/logo.a68d4160.png",
+    "static/media/slider_image1.jpg": "/ReactPractics/static/media/slider_image1.19cd45de.jpg",
+    "static/media/slider_image2.jpg": "/ReactPractics/static/media/slider_image2.75a0a8d0.jpg",
+    "static/media/slider_image3.jpg": "/ReactPractics/static/media/slider_image3.f34f2042.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.65306b50.js",
-    "static/js/2.7d748ce5.chunk.js",
-    "static/css/main.5facb584.chunk.css",
-    "static/js/main.db2cd9d4.chunk.js"
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1ed1d990.chunk.js",
+    "static/css/main.c71f1305.chunk.css",
+    "static/js/main.677babfc.chunk.js"
   ]
 }
