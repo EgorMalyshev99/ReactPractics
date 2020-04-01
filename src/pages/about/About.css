@@ -12,3 +12,14 @@
   text-align: center;
   margin: 0 auto;
 }
+
+#left-tabs-example-tabpane-fourth img {
+  filter: grayscale(70%);
+  transition: all 0.55s ease;
+}
+
+#left-tabs-example-tabpane-fourth img:hover {
+  filter: grayscale(0%);
+  border-radius: 50px;
+  transition: all 0.55s ease;
+}
