@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactPractics/static/css/main.c71f1305.chunk.css",
-    "main.js": "/ReactPractics/static/js/main.677babfc.chunk.js",
-    "main.js.map": "/ReactPractics/static/js/main.677babfc.chunk.js.map",
+    "main.js": "/ReactPractics/static/js/main.f57ef41f.chunk.js",
+    "main.js.map": "/ReactPractics/static/js/main.f57ef41f.chunk.js.map",
     "runtime-main.js": "/ReactPractics/static/js/runtime-main.65306b50.js",
     "runtime-main.js.map": "/ReactPractics/static/js/runtime-main.65306b50.js.map",
     "static/css/2.de424728.chunk.css": "/ReactPractics/static/css/2.de424728.chunk.css",
-    "static/js/2.1ed1d990.chunk.js": "/ReactPractics/static/js/2.1ed1d990.chunk.js",
-    "static/js/2.1ed1d990.chunk.js.map": "/ReactPractics/static/js/2.1ed1d990.chunk.js.map",
+    "static/js/2.8989e91b.chunk.js": "/ReactPractics/static/js/2.8989e91b.chunk.js",
+    "static/js/2.8989e91b.chunk.js.map": "/ReactPractics/static/js/2.8989e91b.chunk.js.map",
     "index.html": "/ReactPractics/index.html",
-    "precache-manifest.f0a0b2f006be2a38fb60f10e8789aa2d.js": "/ReactPractics/precache-manifest.f0a0b2f006be2a38fb60f10e8789aa2d.js",
+    "precache-manifest.5e2283db2bf208464f60599e6bec678b.js": "/ReactPractics/precache-manifest.5e2283db2bf208464f60599e6bec678b.js",
     "service-worker.js": "/ReactPractics/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/ReactPractics/static/css/2.de424728.chunk.css.map",
     "static/css/main.c71f1305.chunk.css.map": "/ReactPractics/static/css/main.c71f1305.chunk.css.map",
-    "static/js/2.1ed1d990.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.1ed1d990.chunk.js.LICENSE.txt",
+    "static/js/2.8989e91b.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.8989e91b.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/ReactPractics/static/media/logo.a68d4160.png",
     "static/media/slider_image1.jpg": "/ReactPractics/static/media/slider_image1.19cd45de.jpg",
     "static/media/slider_image2.jpg": "/ReactPractics/static/media/slider_image2.75a0a8d0.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.65306b50.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.1ed1d990.chunk.js",
+    "static/js/2.8989e91b.chunk.js",
     "static/css/main.c71f1305.chunk.css",
-    "static/js/main.677babfc.chunk.js"
+    "static/js/main.f57ef41f.chunk.js"
   ]
 }
