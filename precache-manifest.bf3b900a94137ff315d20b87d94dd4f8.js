@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62b94c2683d25de0028dd611860f3057",
+    "revision": "35964fd50a61a6c8e1f7721f9fa03853",
     "url": "/ReactPractics/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactPractics/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "ae1f8b3f3cf348366a31",
-    "url": "/ReactPractics/static/css/main.4188a975.chunk.css"
+    "revision": "4fe9bda5d14a099e5b7d",
+    "url": "/ReactPractics/static/css/main.fc93204a.chunk.css"
   },
   {
     "revision": "9fed476704d001d54766",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactPractics/static/js/2.1606aab1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae1f8b3f3cf348366a31",
-    "url": "/ReactPractics/static/js/main.b2dfdbd4.chunk.js"
+    "revision": "4fe9bda5d14a099e5b7d",
+    "url": "/ReactPractics/static/js/main.4d802608.chunk.js"
   },
   {
     "revision": "bb7857d73d54a737946f",
