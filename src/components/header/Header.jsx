@@ -4,7 +4,7 @@ import logo from "../../media/logo.png";
 import { Nav, Navbar, Container, NavbarBrand, NavLink, Form, FormControl, Button } from "react-bootstrap";
 import NavbarToggle from "react-bootstrap/NavbarToggle";
 import NavbarCollapse from "react-bootstrap/NavbarCollapse";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "../../pages/home/Home";
 import About from "../../pages/about/About";
 import Contacts from "../../pages/contacts/Contacts";
@@ -55,7 +55,7 @@ class Header extends Component {
         </Router>
       </div>
     );
-  };
-};
+  }
+}
 
 export default Header;
