@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ReactPractics/static/css/main.fc93204a.chunk.css",
-    "main.js": "/ReactPractics/static/js/main.4d802608.chunk.js",
-    "main.js.map": "/ReactPractics/static/js/main.4d802608.chunk.js.map",
+    "main.css": "/ReactPractics/static/css/main.bf69b3d1.chunk.css",
+    "main.js": "/ReactPractics/static/js/main.af77f6e8.chunk.js",
+    "main.js.map": "/ReactPractics/static/js/main.af77f6e8.chunk.js.map",
     "runtime-main.js": "/ReactPractics/static/js/runtime-main.65306b50.js",
     "runtime-main.js.map": "/ReactPractics/static/js/runtime-main.65306b50.js.map",
     "static/css/2.de424728.chunk.css": "/ReactPractics/static/css/2.de424728.chunk.css",
-    "static/js/2.1606aab1.chunk.js": "/ReactPractics/static/js/2.1606aab1.chunk.js",
-    "static/js/2.1606aab1.chunk.js.map": "/ReactPractics/static/js/2.1606aab1.chunk.js.map",
+    "static/js/2.3f0bd001.chunk.js": "/ReactPractics/static/js/2.3f0bd001.chunk.js",
+    "static/js/2.3f0bd001.chunk.js.map": "/ReactPractics/static/js/2.3f0bd001.chunk.js.map",
     "index.html": "/ReactPractics/index.html",
-    "precache-manifest.bf3b900a94137ff315d20b87d94dd4f8.js": "/ReactPractics/precache-manifest.bf3b900a94137ff315d20b87d94dd4f8.js",
+    "precache-manifest.7ec8dd630bb2125caf1ddf985c26e5ed.js": "/ReactPractics/precache-manifest.7ec8dd630bb2125caf1ddf985c26e5ed.js",
     "service-worker.js": "/ReactPractics/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/ReactPractics/static/css/2.de424728.chunk.css.map",
-    "static/css/main.fc93204a.chunk.css.map": "/ReactPractics/static/css/main.fc93204a.chunk.css.map",
-    "static/js/2.1606aab1.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.1606aab1.chunk.js.LICENSE.txt",
+    "static/css/main.bf69b3d1.chunk.css.map": "/ReactPractics/static/css/main.bf69b3d1.chunk.css.map",
+    "static/js/2.3f0bd001.chunk.js.LICENSE.txt": "/ReactPractics/static/js/2.3f0bd001.chunk.js.LICENSE.txt",
     "static/media/capabilities.jpg": "/ReactPractics/static/media/capabilities.a4119150.jpg",
     "static/media/car1.jpg": "/ReactPractics/static/media/car1.0c0dd571.jpg",
     "static/media/car2.jpg": "/ReactPractics/static/media/car2.c2cf39f0.jpg",
@@ -24,6 +24,7 @@
     "static/media/car7.jpg": "/ReactPractics/static/media/car7.cda0447b.jpg",
     "static/media/lamb_aventador.jpg": "/ReactPractics/static/media/lamb_aventador.5080e317.jpg",
     "static/media/lamb_huracan.jpg": "/ReactPractics/static/media/lamb_huracan.ac02ef46.jpg",
+    "static/media/lamb_logo.png": "/ReactPractics/static/media/lamb_logo.2f8106ad.png",
     "static/media/lamb_urus.jpg": "/ReactPractics/static/media/lamb_urus.4bc21b4a.jpg",
     "static/media/logo.png": "/ReactPractics/static/media/logo.a68d4160.png",
     "static/media/office.jpg": "/ReactPractics/static/media/office.80b42538.jpg",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.65306b50.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.1606aab1.chunk.js",
-    "static/css/main.fc93204a.chunk.css",
-    "static/js/main.4d802608.chunk.js"
+    "static/js/2.3f0bd001.chunk.js",
+    "static/css/main.bf69b3d1.chunk.css",
+    "static/js/main.af77f6e8.chunk.js"
   ]
 }

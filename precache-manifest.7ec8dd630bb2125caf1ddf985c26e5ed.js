@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35964fd50a61a6c8e1f7721f9fa03853",
+    "revision": "6d8ba2dff52c3f3de4f79f5c858a6cba",
     "url": "/ReactPractics/index.html"
   },
   {
-    "revision": "9fed476704d001d54766",
+    "revision": "4cebd9bf280200911ea0",
     "url": "/ReactPractics/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "4fe9bda5d14a099e5b7d",
-    "url": "/ReactPractics/static/css/main.fc93204a.chunk.css"
+    "revision": "c394071a2619128424a9",
+    "url": "/ReactPractics/static/css/main.bf69b3d1.chunk.css"
   },
   {
-    "revision": "9fed476704d001d54766",
-    "url": "/ReactPractics/static/js/2.1606aab1.chunk.js"
+    "revision": "4cebd9bf280200911ea0",
+    "url": "/ReactPractics/static/js/2.3f0bd001.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/ReactPractics/static/js/2.1606aab1.chunk.js.LICENSE.txt"
+    "url": "/ReactPractics/static/js/2.3f0bd001.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fe9bda5d14a099e5b7d",
-    "url": "/ReactPractics/static/js/main.4d802608.chunk.js"
+    "revision": "c394071a2619128424a9",
+    "url": "/ReactPractics/static/js/main.af77f6e8.chunk.js"
   },
   {
     "revision": "bb7857d73d54a737946f",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac02ef46d945ed7f4ccd5bbc439b57c7",
     "url": "/ReactPractics/static/media/lamb_huracan.ac02ef46.jpg"
+  },
+  {
+    "revision": "2f8106ade994b661467f5d60778f5f63",
+    "url": "/ReactPractics/static/media/lamb_logo.2f8106ad.png"
   },
   {
     "revision": "4bc21b4af05bfa451f601d8d5e04381e",
